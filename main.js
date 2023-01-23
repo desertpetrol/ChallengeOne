@@ -5,7 +5,6 @@ let textOutput = document.getElementById('output')
 let btnSwapText = document.getElementById('change')
 
 let create = document.getElementById('create')
-let del = document.getElementById('delete')
 
 let btnCod = document.getElementById('btnCod')
 let btnDecod = document.getElementById('btnDecod')
